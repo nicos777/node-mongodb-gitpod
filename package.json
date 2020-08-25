@@ -1,0 +1,28 @@
+{
+  "name": "node-mongodb-gitpod",
+  "version": "1.0.0",
+  "description": "dflñkdkjfkldjvckl",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicos777/node-mongodb-gitpod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicos777/node-mongodb-gitpod/issues"
+  },
+  "homepage": "https://github.com/nicos777/node-mongodb-gitpod#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
