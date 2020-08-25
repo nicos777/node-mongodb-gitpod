@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://fazt:fazt@cluster0.a86kz.mongodb.net/app-note?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<user>:<passwords>@mongodb.net/?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
